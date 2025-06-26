@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: calix-bs-test1
+  annotations:
+    github.com/project-slug: Yogi2796-elite/calix-bs-test1
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
